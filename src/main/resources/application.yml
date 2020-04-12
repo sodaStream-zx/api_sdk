@@ -1,0 +1,8 @@
+server:
+  port: 9119
+spring:
+  application:
+    name: ncMsgCenter
+logging:
+  level:
+    root: info
